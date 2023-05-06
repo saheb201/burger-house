@@ -31,6 +31,36 @@
    
 
 }
+@media only screen and (max-width: 980px) {
+.header-section{
+ height: auto;
+  color: #42200b;
+}
+.banarSection{
+ height: auto;
+}
+.iteamSection{
+height: auto;
+}
+.eventSection{
+height: auto;
+ 
+}
+.tableSection{
+ height: auto;
+}
+.footer-section{
+height: auto;
+  background: url(../images/footer.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.main-footer{
+     background: none;
+}
+   
+
+}
 @media only screen and (max-width: 480px) {
  h2{
    font-size: 6vw;
@@ -122,6 +152,11 @@
 }
 .foote-icons{
   visibility: hidden;
+}
+.footer-logo img{
+  
+    width: 60%;
+
 }
 }
 @media only screen and (max-width: 480px){
